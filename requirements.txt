@@ -1,0 +1,8 @@
+discord.py
+random
+os
+yuotube-dl
+pyowm
+aiohttp
+websockets
+chardet
