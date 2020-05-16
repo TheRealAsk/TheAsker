@@ -1,5 +1,5 @@
 discord.py
-yuotube-dl
+youtube-dl
 pyowm
 aiohttp
 websockets
